@@ -1,2 +1,2 @@
 # GoodRepository
-awesome
+Julianne Murphy and Kathryn Bager
