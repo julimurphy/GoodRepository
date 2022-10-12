@@ -10,5 +10,5 @@ The model for the license used is the same used by JupyterHub. The terms are und
 Excpectations under [Contributor Covenant Code of Conduct](https://github.com/julimurphy/GoodRepository/blob/main/code_of_conduct.md) are to be maintained. 
 
 ## Miscellany
-The JupyterLab liscence was chosen because we want our project to have the same permissions as Jupyter. The Contributor Covenant Code of Conduct was chosen because we agree with teir terms and think they are important. 
+The JupyterLab liscence was chosen because we want our project to have the same permissions as Jupyter. The Contributor Covenant Code of Conduct was chosen because we agree with their terms and think they are important. 
 
